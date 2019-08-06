@@ -1,2 +1,2 @@
-# BlackJack_Python
+# Blackjack_Python
 Projeto Python - Blackjack
